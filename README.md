@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sayan Das
 - 👀 I’m interested in Machine learning and Deep Learning.
-- 🌱 I’m currently learning different models of ML and DL
+- 🌱 I’m currently learning different models of ML and DL.
 - 📫 I am reachable through email sayandas095@gmail.com
 
 <!---
